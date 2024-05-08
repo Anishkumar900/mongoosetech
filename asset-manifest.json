@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Anishkumar900/mongoosetech.git/static/css/main.d7c8b5fc.css",
-    "main.js": "/Anishkumar900/mongoosetech.git/static/js/main.b9bf4524.js",
+    "main.js": "/Anishkumar900/mongoosetech.git/static/js/main.ba43bcd9.js",
     "static/js/453.0a36081d.chunk.js": "/Anishkumar900/mongoosetech.git/static/js/453.0a36081d.chunk.js",
     "index.html": "/Anishkumar900/mongoosetech.git/index.html",
     "main.d7c8b5fc.css.map": "/Anishkumar900/mongoosetech.git/static/css/main.d7c8b5fc.css.map",
-    "main.b9bf4524.js.map": "/Anishkumar900/mongoosetech.git/static/js/main.b9bf4524.js.map",
+    "main.ba43bcd9.js.map": "/Anishkumar900/mongoosetech.git/static/js/main.ba43bcd9.js.map",
     "453.0a36081d.chunk.js.map": "/Anishkumar900/mongoosetech.git/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7c8b5fc.css",
-    "static/js/main.b9bf4524.js"
+    "static/js/main.ba43bcd9.js"
   ]
 }
